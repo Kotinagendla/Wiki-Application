@@ -1,4 +1,5 @@
 # Wiki-Application
+You can directly access url from here: https://miniwiki.ccbp.tech/
 
 # Simple Wikipedia Application
 
