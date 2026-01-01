@@ -1,31 +1,43 @@
 # Wiki-Application
-You can directly access url from here: https://miniwiki.ccbp.tech/
+# Wikipedia Search Application
 
-# Simple Wikipedia Application
-
-A simple Wikipedia application that allows users to search for topics and view brief summaries fetched from Wikipedia.
+A custom Wikipedia search application that allows users to search topics, view curated search results, and access detailed explanations directly on Wikipedia.
 
 ## 🚀 Features
-- Search any topic
-- Fetches data directly from Wikipedia
-- Displays short and clear summaries
-- Simple and user-friendly interface
+- Search for any topic using keywords
+- Displays a list of curated Wikipedia search results
+- Click on a result to view detailed information on Wikipedia
+- Opens selected Wikipedia pages in a new browser tab
+- Responsive and user-friendly interface
+
+## 💡 Functionality
+- Search results are displayed using HTML list elements with clickable hyperlinks
+- Styled using CSS and Bootstrap for clean UI
+- Responsive layout implemented using Flexbox and CSS Box Model
+- Asynchronous data fetching using Fetch API (GET HTTP request)
+- External links open in a new tab using the `target` attribute
 
 ## 🛠️ Technologies Used
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
+- REST API (Wikipedia API)
+
+## 🌐 Live Demo
+👉 https://minwiki.ccbp.tech
 
 ## 📂 How to Run the Project
-1. Download or clone the repository
+1. Clone or download the repository
 2. Open the project folder
 3. Open `index.html` in your browser
 
-## 📌 Future Improvements
-- Add images from Wikipedia
-- Improve UI design
-- Add loading and error handling
+## 🔮 Future Enhancements
+- Add loading indicators
+- Improve UI/UX design
+- Add search history feature
 
 ## 👨‍💻 Author
 Koti Nagendla
+
 
